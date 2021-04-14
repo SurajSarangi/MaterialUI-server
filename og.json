@@ -1,0 +1,28 @@
+{
+    "notes":[
+        {
+            "title" : "Learn JWT",
+            "note" : "Learn JSON Web Tokens for authentication from Net Ninja",
+            "category" : "web development",
+            "id" : 1
+        },
+        {
+            "title" : "Flask Deployment",
+            "note" : "Deploy the gold prices prediction project to the web using flask",
+            "category" : "machine learning",
+            "id" : 2
+        },
+        {
+            "title" : "Sova practice",
+            "note" : "Learn recon and skock dart lineups as raze will be nerfed.",
+            "category" : "valorant",
+            "id" : 3
+        },
+        {
+            "title" : "Career",
+            "note" : "Continue the 2nd year of career with barcelona on fifa 19",
+            "category" : "fifa",
+            "id" : 4
+        }
+    ]
+}
